@@ -67,4 +67,16 @@ Simply add `<style></style>` to the file and define your __style__. I used a __s
 
 In addition __blockquotes__ have to cover every line for a block of code to be properly rendered on the page. Note that there is a difference between code and pre tags.
 
+### Re-packing EPUB file
+
+I have Verne's one of the greatest under Verne.epub. Epub is just a compressed file containing, for example, HTML files and layout schemes that are bundelled together to make EPUB document. I need to change font size because CoolReader3 renders tiny letters and does not allow to zoom the page.
+
+I open Verne.epub with Archive Manager and extract the contents into a folder, say "files/". I edit styles.css and then run the following command:
+
+>```
+>zip -r ../Verne-remastered.epub *
+>```
+
+This will generate Verne-remastered.epub along Verne.epub and files/
+
 
