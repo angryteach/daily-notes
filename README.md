@@ -79,4 +79,8 @@ I open Verne.epub with Archive Manager and extract the contents into a folder, s
 
 This will generate Verne-remastered.epub along Verne.epub and files/
 
+### GitHub Android App
+
+That is not a very useful tool to an active developer but I use it to explore projects. There is a lot of exciting stuff such as "Awesome lists" under Python's Audio projects in particular [dejavu](https://willdrevo.com/fingerprinting-and-audio-recognition-with-python/) (Yeah, an unfortunate choice of name). Have a look for yourselves!
+
 
